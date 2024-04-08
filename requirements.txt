@@ -1,0 +1,16 @@
+# absl-py
+# dataclasses-json
+# numpy==1.24.3
+black
+fastapi
+pydantic
+pyflakes
+pytest-asyncio
+pytest-cov
+pytest-integration-mark
+pytest-mock
+pytest>=6.2.5
+python-multipart
+setuptools>=65.5.1
+tokenizers
+uvicorn
